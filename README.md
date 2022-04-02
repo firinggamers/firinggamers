@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![firinggamers - Anything about your banner](banner.png)
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hidaytrahman.firinggamers)]
+
+
 <!--
 **firinggamers/firinggamers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
