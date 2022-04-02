@@ -17,6 +17,7 @@ Hobbies: Gaming, More gaming, Listening to Slowed Music
 Discord: firinggamers#0350
 ```
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1a9fe0&size=29&multiline=true&width=700&lines=Welcome+To+firing+gamers's+GitHub+Profile)](https://git.io/typing-svg)
 
 <!--
 **firinggamers/firinggamers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
