@@ -14,7 +14,7 @@ Location: Kerala, Palakkad, India
 Learning: Cloud Computing, Docker,
           Kubernetes
 Hobbies: Gaming, More gaming, Listening to Slowed Music
-Discord: firinggamers#0350
+Discord: firing gamers#6969
 ```
 
 <p align="left">
